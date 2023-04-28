@@ -4,7 +4,7 @@
 </div>
 
 
-### Hi there 👋 I'm Vijay
+## Hi there 👋 I'm Vijay
 - 😉 A Passionate Full Stack developer
 - 🔭 I’m currently working on a SpringBoot and an On Demand Platform
 - 🌱 I’m currently learning Java Full Stack and DevOps
