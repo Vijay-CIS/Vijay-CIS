@@ -13,7 +13,7 @@
 - ✌️[Follow me on LinkedIn](https://www.linkedin.com/in/vijay-subramani-5b58371a3/)
 - 📸[Follow me on Instagram](https://www.instagram.com/vijay_funz/)
 
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay-CIS&count_private=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-CIS&count_private=true&layout=compact&theme=dracula)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay-CIS&count_private=true&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-CIS&count_private=true&layout=compact&theme=dracula)
 
 #### Top Technologies
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![VS Code Badge](	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
